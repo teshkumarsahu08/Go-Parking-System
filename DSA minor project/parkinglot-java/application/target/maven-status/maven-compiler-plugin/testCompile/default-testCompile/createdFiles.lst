@@ -1,0 +1,10 @@
+com\drz\carparking\domain\ParkingLotTests.class
+com\drz\carparking\interaction\CommandFactoryTests.class
+com\drz\carparking\interaction\command\CreateLotCommandTests.class
+com\drz\carparking\client\ClientTests.class
+com\drz\carparking\domain\ParkingSlotTests.class
+com\drz\carparking\client\ClientFactoryTests.class
+com\drz\carparking\handler\ParkingLotCommandHandlerTests.class
+com\drz\carparking\domain\CarTests.class
+com\drz\carparking\interaction\command\ParkCommandTests.class
+com\drz\carparking\utils\StringUtilsTests.class
